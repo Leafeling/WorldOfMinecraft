@@ -1,0 +1,9 @@
+/.idea/dictionaries/
+/.idea/libraries/
+/.idea/*.xml
+*.iml
+
+src/**/plugin.yml
+
+.gradle
+build/
